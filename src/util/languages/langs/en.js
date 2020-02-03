@@ -168,7 +168,8 @@ export default {
             fBarApi: `API`,
             fBarAgainMoreFaq: `FAQ`,
 
-            fBarPpDescription: `© 2019-2020 ${config.name} - an open source project managed by an international community and maintained by the WebDollar community`,
+            fBarPpDescription: `© 2019-2020 ${config.name} - an open source project managed by an international community and maintained by the `,
+            fBarPpDescriptionTwo: ` community.`,
         },
 
     }

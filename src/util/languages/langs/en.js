@@ -142,22 +142,33 @@ export default {
 
     layout:{
 
-        header:{
-
-            navbar:{
-                ppLogoInline: `logo`,
-                ppLogoInlineWhite: `logo`,
-                goGoHome: `Home`,
-                goGoBlockExplorer: `Block Explorer`,
-                goGoWebWallet: `Web Wallet`,
-                goGoContact: `Contact`,
-                goGoFaq: `FAQ`,
-            },
-
+        navbar:{
+            ppLogoInline: `logo`,
+            ppLogoInlineWhite: `logo`,
+            goGoHome: `Home`,
+            goGoBlockExplorer: `Block Explorer`,
+            goGoWebWallet: `Web Wallet`,
+            goGoContact: `Contact`,
+            goGoFaq: `FAQ`,
         },
 
         footer:{
+            fBarOrganization: `Organization`,
+            fBarAboutOrganization: `About Us`,
+            fBarContactOrganization: `Contact`,
+            fBarBlockchain: `Blockchain`,
+            fBarWhyPp: `Why ${config.name} ?`,
+            fBarSecurity: `Security`,
+            fBarAgainFaq: `FAQ`,
+            fBarCommunity: `Community`,
+            fBarGitHub: `GitHub`,
+            fBarSupport: `Support`,
+            fBarHelpCenter: `Help Center`,
+            fBarGuides: `Guides`,
+            fBarApi: `API`,
+            fBarAgainMoreFaq: `FAQ`,
 
+            fBarPpDescription: `© 2019-2020 ${config.name} - an open source project managed by an international community and maintained by the WebDollar community`,
         },
 
     }

@@ -47,7 +47,7 @@
         <div class="row gap-y">
 
             <div class="col-md-6 text-center text-md-left">
-                <small class="opacity-70">{{ $i18n.t('layout.footer.fBarPpDescription') }}</small>
+                <small class="opacity-70">{{ $i18n.t('layout.footer.fBarPpDescription') }}<a href="https://webdollar.io" target="_blank" >WebDollar</a>{{ $i18n.t('layout.footer.fBarPpDescriptionTwo') }}</small>
             </div>
 
 

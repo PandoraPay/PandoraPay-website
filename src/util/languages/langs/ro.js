@@ -176,7 +176,7 @@ export default {
             telegram: "Telegram",
 
             support: "Suport",
-            helpCenter: "Centeru de ajutor",
+            helpCenter: "Centru de ajutor",
             guides: "Ghid",
             api: "API",
             faq: "FAQ",

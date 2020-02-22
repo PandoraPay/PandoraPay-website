@@ -102,7 +102,7 @@
                         <div class="col-md-5 ml-auto">
                             <h3>{{ $i18n.t('pages.homepage.privateDigitalCurrency') }}</h3>
                             <p class="lead" >{{ $i18n.t('pages.homepage.withASingleClick') }}</p>
-                            <p> {{ $i18n.t('pages.homepage.neverBeenEasierToSendAndReceiveMoney') }}.</p>
+                            <p> {{ $i18n.t('pages.homepage.neverBeenEasierToSendAndReceiveMoney') }}</p>
                         </div>
 
                         <div class="col-md-4 mx-auto text-center">
@@ -133,13 +133,13 @@
                                 <div class="col-6">
                                     <p class="text-danger lead-7"><i class="icon-documents"></i></p>
                                     <h5>{{ $i18n.t('pages.homepage.nameIsSecure')}}</h5>
-                                    <p>{{ $i18n.t('pages.homepage.unstoppableByUsingDecentralizedBlockchain') }}.</p>
+                                    <p>{{ $i18n.t('pages.homepage.unstoppableByUsingDecentralizedBlockchain') }}</p>
                                 </div>
 
                                 <div class="col-6">
                                     <p class="text-danger lead-7"><i class="icon-key"></i></p>
                                     <h5>{{ $i18n.t('pages.homepage.nameIsPrivate') }}</h5>
-                                    <p>{{  $i18n.t('pages.homepage.youOwnYourOwnKey') }}.</p>
+                                    <p>{{  $i18n.t('pages.homepage.youOwnYourOwnKey') }}</p>
                                 </div>
                             </div>
                         </div>

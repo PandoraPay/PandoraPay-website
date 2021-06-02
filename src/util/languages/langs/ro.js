@@ -93,27 +93,6 @@ export default {
             gotAQuestionFaq: "FAQ",
         },
 
-        contact:{
-            powerToThePeople: "Oameni",
-            powerToThePeopleMeetTheCommunity: "Intalneste-ne",
-
-            aFewGoodMen: "Intalneste aceasta mica echipa care face produse marete",
-            aFewGoodMenAlexandruIonutBudisteanu: "Alexandru Ionut Budisteanu",
-            aFewGoodMenAbi: "Alexandru Ionut Budisteanu",
-            aFewGoodMenFounder: "Fondator",
-            aFewGoodMenFounderAchievements: "Alexandru is a Forbes Europe 30 under 30 nominee in industry category. In 2013, he was nominated by Time Magazine as one of the most influential teens of the world. MIT named an asteroid with his name.",
-
-            powerToThePeopleContactTheCommunity: "Contact",
-            powerToThePeopleTalkToTheCommunity: "Sa vorbim",
-            powerToThePeopleWaysToContact: "Iata metodele prin care ne poti contacta si ne poti intrebare orice",
-
-            messageReceivedWaitNow: "Vom primi mesajul tau si te vom contacta curand.",
-            inputYourName: "Nume",
-            inputYourEmail: "Email",
-            inputYourMessage: "Mesaj",
-            hitSendHard: "TRIMITE",
-        },
-
         faq:{
             weGotAnswers: "Intrebari frecvente",
             weGotAllTheAnswers: "Ai o întrebare? Suntem aici pentru a vă răspunde la întrebări!",

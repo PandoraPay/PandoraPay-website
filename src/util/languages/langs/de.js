@@ -104,26 +104,6 @@ export default {
             gotAQuestion: `Haben Sie eine Frage? Wir haben Antworten auf `,
         },
 
-        contact:{
-            people: `Leute`,
-            peopleMeetTheCommunity: `Treffen Sie uns`,
-
-            team: `Treffen Sie unser kleines Team, welches großartige Produkte erschafft.`,
-            teamAlexandruIonutBudisteanu: `Alexandru Ionut Budisteanu`,
-            teamFounder: `Gründer`,
-            teamFounderAchievements: `Alexandru wurde für "Forbes Europa 30 unter 30" in der Kategorie Industrie nominiert. Im Jahr 2013 wurde er vom Time Magazine als einer der einflussreichsten Teenager der Welt nominiert. MIT benannte sogar einen Asteroiden nach ihm.`,
-
-            contactTheCommunity: `Kontakt`,
-            letsTalk: `Lass uns reden`,
-            waysToContact: `Hier können Sie uns bei vorhandenen Fragen kontaktieren.`,
-
-            messageReceivedWaitNow: `Wir haben Ihre Nachricht erhalten und melden uns bald bei Ihnen.`,
-            inputYourName: `Ihr Name`,
-            inputYourEmail: `Ihre Email`,
-            inputYourMessage: `Nachricht`,
-            send: `SENDEN`,
-        },
-
         faq:{
             weGotAnswers: `Häufig gestellte Fragen`,
             weGotAllTheAnswers: `Haben Sie eine Frage? Wir sind hier um Ihre Fragen zu beantworten!`,

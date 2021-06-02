@@ -7,28 +7,21 @@
 
             <section class="section">
                 <div class="container">
+
                     <header class="section-header">
                         <small>{{ $i18n.t('pages.contact.people') }}</small>
-                        <h2>{{ $i18n.t('pages.contact.peopleMeetTheCommunity') }}</h2>
+                        <h2>{{ $i18n.t('pages.contact.meetTheCommunity') }}</h2>
                         <hr>
-                        <p class="lead">{{ $i18n.t('pages.contact.team') }}</p>
+                        <p class="lead">{{ $i18n.t('pages.contact.join') }}</p>
                     </header>
 
 
                     <div class="row gap-y">
 
                         <div class="offset-md-4 col-md-4 team-2">
-                            <a href="#">
-                                <img class="team-pic" src="/public/assets/images/team/Alexandru-Ionut-Budisteanu.jpg" :alt="$i18n.t('pages.contact.teamAlexandruIonutBudisteanu')">
-                            </a>
-                            <h5>{{ $i18n.t('pages.contact.teamAlexandruIonutBudisteanu') }}</h5>
-                            <small>{{ $i18n.t('pages.contact.teamFounder') }}</small>
-                            <p>{{ $i18n.t('pages.contact.teamFounderAchievements') }}</p>
-                            <br>
                             <div class="social social-brand">
-                                <a class="social-facebook" href="https://facebook.com/budisteanu.ionut"  target="_blank" ><i class="icon-facebook"></i></a>
-                                <a class="social-linkedin" href="https://linkedin.com/in/budisteanu"  target="_blank" ><i class="icon-linkedin"></i></a>
-                                <a class="social-bg-light" href="http://budisteanu.net"  target="_blank" ><i class="icon-global"></i></a>
+                                <a class="social-telegram" href="https://t.me/PandoraPayOfficial"  target="_blank" ><i class="fa-2x icon-chat"></i></a>
+                                <a class="social-git" href="http://github.com/pandoraPay/"  target="_blank" ><i class="fa-2x icon-github"></i></a>
                             </div>
                         </div>
 

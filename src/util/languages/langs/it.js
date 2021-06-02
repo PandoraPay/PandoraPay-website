@@ -103,26 +103,6 @@ export default {
             gotAQuestion: `Hai una domanda? Abbiamo le risposte su `,
         },
 
-        contact:{
-            people: `Persone`,
-            peopleMeetTheCommunity: `Incontraci`,
-
-            team: `Incontra la nostra piccola squadra che fa grandi prodotti`,
-            teamAlexandruIonutBudisteanu: `Alexandru Ionut Budisteanu`,
-            teamFounder: `Fondatore`,
-            teamFounderAchievements: `Alexandru è stato nominato nella classifica Forbes Europe 30 under 30 nella categoria industry. Nel 2013, è stato nominato dal Time Magazine come uno degli adolescenti pi&uacute; influenti al mondo. L'MIT ha dato il suo nome ad un asteroide.`,
-
-            contactTheCommunity: `Contatto`,
-            letsTalk: `Parliamo`,
-            waysToContact: `Se hai delle domande da farci, trovi qui i modi in cui puoi contattarci`,
-
-            messageReceivedWaitNow: `Abbiamo ricevuto il tuo messaggio e ti contatteremo al pi&uacute; presto.`,
-            inputYourName: `Il tuo nome`,
-            inputYourEmail: `La tua email`,
-            inputYourMessage: `Messaggio`,
-            send: `INVIA`,
-        },
-
         faq:{
             weGotAnswers: `Domande poste frequentemente`,
             weGotAllTheAnswers: `Hai delle domande? Siamo qui per risponderti!`,

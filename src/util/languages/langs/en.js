@@ -104,23 +104,11 @@ export default {
         },
 
         contact:{
+
             people: `People`,
-            peopleMeetTheCommunity: `Meet us`,
+            meetTheCommunity: `Community driven initiative`,
+            join: `Join our community`,
 
-            team: `Meet our small team that make those great products`,
-            teamAlexandruIonutBudisteanu: `Alexandru Ionut Budisteanu`,
-            teamFounder: `Founder`,
-            teamFounderAchievements: `Alexandru is a Forbes Europe 30 under 30 nominee in industry category. In 2013, he was nominated by Time Magazine as one of the most influential teens of the world. MIT named an asteroid with his name.`,
-
-            contactTheCommunity: `Contact`,
-            letsTalk: `Let's Talk`,
-            waysToContact: `Here are the ways you can contact us with any questions you have`,
-
-            messageReceivedWaitNow: `We received your message and will contact you back soon.`,
-            inputYourName: `Your name`,
-            inputYourEmail: `Your email`,
-            inputYourMessage: `Message`,
-            send: `SEND`,
         },
 
         faq:{

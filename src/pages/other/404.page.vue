@@ -50,8 +50,7 @@ export default {
 
     watch: {
         '$route' (to, from) {
-            if (this.route.indexOf('public/wallet-dist/') >= 0)
-                window.location = config.app.wallet;
+
         }
     },
 
@@ -59,8 +58,6 @@ export default {
 
         if (typeof window === "undefined") return;
 
-        if (this.route.indexOf('public/wallet-dist/') >= 0)
-            window.location = config.app.wallet;
     },
 
 }

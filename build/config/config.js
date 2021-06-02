@@ -11,8 +11,8 @@ module.exports = {
         image: "/public/assets/images/pandora-cover-image",
         keywords: ["decentralized", "pandora pay", "zero"],
 
-        wallet: "http://pandorapay.org/public/wallet-dist/",
-        explorer: "http://pandorapay.org/public/wallet-dist/",
+        wallet: "http://testnet.pandorapay.org/",
+        explorer: "http://testnet.pandorapay.org/explorer",
     },
 
     consensus: [{
